@@ -6006,3 +6006,16 @@
       added: 2015-07-02
       media:
         - image: https://camo.githubusercontent.com/b9d8c6819d45e8181d09bdea6c5e2e7a88f62fa0/687474703a2f2f616c657864616e7461732e6e65742f73747566662f77702d636f6e74656e742f75706c6f6164732f323031342f30352f7777772d302e352e332e676966
+
+- name: Gunpoint
+  clones:
+    - name: Clonepoint
+      url: http://rohit.itch.io/clonepoint
+      repo: https://github.com/rohit-n/Clonepoint
+      info: active development, playable, C++, GPLv3
+      added: 2015-11-14
+      media:
+        - url: https://img.itch.io/aW1hZ2UvMTcyMzAvNjc2NjAucG5n/original/f7ym16.png
+          image: https://img.itch.io/aW1hZ2UvMTcyMzAvNjc2NjAucG5n/347x500/pBl0Ci.png
+        - url: https://img.itch.io/aW1hZ2UvMTcyMzAvNjM5MTEuZ2lm/original/QIn7sW.gif
+          image: https://img.itch.io/aW1hZ2UvMTcyMzAvNjM5MTEuZ2lm/347x500/XLhkSy.gif
