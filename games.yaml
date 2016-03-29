@@ -1437,7 +1437,7 @@
   clones:
     - name: UltraStar Deluxe
       url: http://ultrastardx.sourceforge.net/
-      repo: http://sourceforge.net/p/ultrastardx/svn/HEAD/tree/trunk/
+      repo: https://github.com/UltraStar-Deluxe/USDX
       info: active development, Object Pascal, playable
       added: 2014-09-19
       media:
